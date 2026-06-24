@@ -101,7 +101,6 @@ The system outputs:
 Khausa_Project/
 ├── README.md                    # Project documentation
 ├── Khausa_Project.py           # Main prediction script
-├── Khausa_Projecst.py          # Alternative version
 └── POWER_Point_Daily_*.csv     # NASA POWER dataset (not included)
 ```
 
